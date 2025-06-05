@@ -1,3 +1,5 @@
+![Neural Network Visualization](docs/brain_neural_network.png)
+
 # Neural Network from Scratch (C++)
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
