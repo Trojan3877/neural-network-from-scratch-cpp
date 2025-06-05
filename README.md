@@ -1,3 +1,11 @@
+![Uploading image.png…]()
+
+
+
+
+
+
+
 ![Neural Network Visualization](docs/brain_neural_network.png)
 
 # Neural Network from Scratch (C++)
