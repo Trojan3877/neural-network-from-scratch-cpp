@@ -1,13 +1,12 @@
 # 🧠 Neural Network from Scratch in C++ — L7 Capstone Project
-
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
-[![Build](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions/workflows/ci.yml/badge.svg)](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions)
+[![Build](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions/workflows/ci.yml/badge.svg)](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20MacOS%20%7C%20Windows-lightgrey)]()
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)]()
-[![Capstone](https://img.shields.io/badge/Capstone-L7%20Quality-purple)]()
-[![Stars](https://img.shields.io/github/stars/Trojan3877/neural-network-from-scratch-cpp?style=social)]()
-[![Forks](https://img.shields.io/github/forks/Trojan3877/neural-network-from-scratch-cpp?style=social)]()
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)]()
+[![Capstone](https://img.shields.io/badge/Capstone-L7%20Quality-purple.svg)]()
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
+[![Stars](https://img.shields.io/github/stars/Trojan3877/neural-network-from-scratch-cpp.svg?style=social)](https://github.com/Trojan3877/neural-network-from-scratch-cpp/stargazers)
+[![Forks](https://img.shields.io/github/forks/Trojan3877/neural-network-from-scratch-cpp.svg?style=social)](https://github.com/Trojan3877/neural-network-from-scratch-cpp/network/members)
 
 A **production-grade neural network framework built entirely from scratch in modern C++**.  
 This project demonstrates both **machine learning fundamentals** and **high-quality C++ systems engineering**, designed to be **capstone-ready** and attractive to **Big Tech / Big AI recruiters**.
