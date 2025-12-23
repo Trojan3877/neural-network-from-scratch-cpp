@@ -1,0 +1,32 @@
+neural-network-from-scratch-cpp/
+├─ CMakeLists.txt                       # Build system
+├─ src/
+│   ├─ core/
+│   │   ├─ NeuralNet.hpp                # Main class
+│   │   ├─ Layer.hpp
+│   │   ├─ Activation.hpp
+│   │   └─ Loss.hpp
+│   ├─ impl/
+│   │   ├─ DenseLayer.cpp
+│   │   ├─ Activations.cpp
+│   │   ├─ Losses.cpp
+│   │   └─ CSVLoader.cpp
+│   └─ main.cpp                          # Demo / CLI
+├─ include/                              # Public headers
+├─ tests/
+│   ├─ CMakeLists.txt
+│   ├─ test_activation.cpp
+│   └─ test_network.cpp
+├─ docs/
+│   ├─ architecture.png                  # Visual flow chart
+│   ├─ use_cases.md
+│   └─ benchmarks.md
+├─ examples/
+│   ├─ mnist_example.cpp
+│   └─ synthetic_dataset.csv
+├─ .github/
+│   ├─ workflows/ci.yml                  # GitHub Actions
+├─ .clang-format
+├─ LICENSE
+├─ README.md                            # Updated
+└─ CONTRIBUTING.md
