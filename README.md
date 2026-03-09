@@ -1,4 +1,4 @@
-# 🧠 Neural Network from Scratch in C++ — L7 Capstone Project
+# 🧠 Neural Network from Scratch in C++  Capstone Project
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![Build](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions/workflows/ci.yml/badge.svg)](https://github.com/Trojan3877/neural-network-from-scratch-cpp/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -11,11 +11,11 @@
 A **production-grade neural network framework built entirely from scratch in modern C++**.  
 This project demonstrates both **machine learning fundamentals** and **high-quality C++ systems engineering**, designed to be **capstone-ready** and attractive to **Big Tech / Big AI recruiters**.
 
-> 🎯 Focus: Deep understanding of neural networks, backpropagation, and scalable software design — without relying on ML libraries.
+Focus: Deep understanding of neural networks, backpropagation, and scalable software design — without relying on ML libraries.
 
----
 
-## 🚀 Key Features
+
+ Key Features
 
 ✅ From-scratch feedforward neural network  
 ✅ Modular layers, activations, and loss functions  
