@@ -1,12 +1,13 @@
 cmake_minimum_required(VERSION 3.16)
-project(NeuralNetCPP VERSION 1.0 LANGUAGES CXX)
+project(NeuralNetworkFromScratch)
 
 set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-include_directories(include src)
+include_directories(include)
 
-enable_testing()
-
-add_subdirectory(src)
-add_subdirectory(tests)
+add_executable(neural_net
+    src/main.cpp
+    src/neural_network.cpp
+    src/activation.cpp
+    src/loss.cpp
+)
