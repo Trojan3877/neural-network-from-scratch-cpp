@@ -1,0 +1,26 @@
+neural-network-from-scratch-cpp/
+│
+├── include/
+│   └── neural_network.h
+│
+├── src/
+│   ├── neural_network.cpp
+│   ├── activation.cpp
+│   ├── loss.cpp
+│   └── main.cpp
+│
+├── tests/
+│   └── test_forward_pass.cpp
+│
+├── benchmarks/
+│   └── benchmark_train.cpp
+│
+├── data/
+│   └── sample_dataset.csv
+│
+├── CMakeLists.txt
+├── .github/workflows/ci.yml
+├── docs/
+│   ├── architecture.md
+│   └── math_foundations.md
+└── README.md
