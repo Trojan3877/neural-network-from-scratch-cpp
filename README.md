@@ -9,9 +9,9 @@
 ![Code Size](https://img.shields.io/tokei/lines/github/Trojan3877/neural-network-from-scratch-cpp)
 ![Issues](https://img.shields.io/github/issues/Trojan3877/neural-network-from-scratch-cpp)
 ![Stars](https://img.shields.io/github/stars/Trojan3877/neural-network-from-scratch-cpp?style=social)
-
-
-
+![Benchmark](https://img.shields.io/badge/Benchmark-Automated-blue)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-clang--tidy-success)
+![Memory Safety](https://img.shields.io/badge/Memory%20Test-Valgrind-blueviolet)
 
 Overview
 
