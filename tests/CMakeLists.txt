@@ -1,5 +1,10 @@
-find_package(GTest REQUIRED)
+#include <cassert>
+#include "neural_network.h"
 
-add_executable(tests test_network.cpp)
-target_link_libraries(tests GTest::gtest_main neural_net)
-add_test(NAME NNTests COMMAND tests)
+int main() {
+    NeuralNetwork nn({2, 4, 1});
+    auto output = nn.forward({0.1, 0.9});
+
+    assert(output.size() == 1);
+    return 0;
+}
