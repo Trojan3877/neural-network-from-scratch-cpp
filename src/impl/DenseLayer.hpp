@@ -1,10 +1,14 @@
+#pragma once
 #include "../core/Layer.hpp"
 #include <random>
+
+/// Fixed seed used for reproducible weight initialisation.
+static constexpr unsigned DENSE_RANDOM_SEED = 42;
 
 class DenseLayer : public Layer {
 public:
     DenseLayer(size_t in, size_t out) : input_size(in), output_size(out) {
-        std::mt19937 gen(42);
+        std::mt19937 gen(DENSE_RANDOM_SEED);
         std::uniform_real_distribution<> dis(-1.0, 1.0);
         weights.resize(out, std::vector<double>(in));
         bias.resize(out);

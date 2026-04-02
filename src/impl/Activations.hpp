@@ -1,3 +1,4 @@
+#pragma once
 #include "../core/Activation.hpp"
 #include <cmath>
 
