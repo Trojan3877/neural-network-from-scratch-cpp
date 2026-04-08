@@ -1,7 +1,6 @@
+#include "CSVLoader.hpp"
 #include <fstream>
 #include <sstream>
-#include <vector>
-#include <string>
 
 std::vector<std::vector<double>> loadCSV(const std::string& path) {
     std::ifstream file(path);
