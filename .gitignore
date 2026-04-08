@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# CMake build directories
+build/
+cmake-build-*/
+_deps/
+
+# IDE / Editor directories
+.idea/
+.vscode/
+*.user
