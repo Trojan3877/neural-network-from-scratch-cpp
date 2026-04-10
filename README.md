@@ -1,19 +1,27 @@
-🧠 Neural Network From Scratch — C++
+Neural Network From Scratch (C++) — Low-Level AI Engineering
 
-![C++](https://img.shields.io/badge/C++-17-blue.svg)
-![CMake](https://img.shields.io/badge/CMake-3.16+-blueviolet.svg)
-![Build Status](https://img.shields.io/github/actions/workflow/status/Trojan3877/neural-network-from-scratch-cpp/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/Trojan3877/neural-network-from-scratch-cpp)
-![Repo Size](https://img.shields.io/github/repo-size/Trojan3877/neural-network-from-scratch-cpp)
-![Last Commit](https://img.shields.io/github/last-commit/Trojan3877/neural-network-from-scratch-cpp)
-![Code Size](https://img.shields.io/tokei/lines/github/Trojan3877/neural-network-from-scratch-cpp)
-![Issues](https://img.shields.io/github/issues/Trojan3877/neural-network-from-scratch-cpp)
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
+![STL](https://img.shields.io/badge/STL-Used-blue)
+![FromScratch](https://img.shields.io/badge/Implementation-From%20Scratch-critical)
+![NeuralNetwork](https://img.shields.io/badge/Neural%20Network-Fully%20Connected-orange)
+![Backpropagation](https://img.shields.io/badge/Backpropagation-Implemented-red)
+![GradientDescent](https://img.shields.io/badge/Optimization-Gradient%20Descent-purple)
+![ForwardPass](https://img.shields.io/badge/Forward-Pass-green)
+![LossFunction](https://img.shields.io/badge/Loss-Function-blue)
+![Activation](https://img.shields.io/badge/Activation-Sigmoid%20%7C%20ReLU-yellow)
+![CPU](https://img.shields.io/badge/Compute-CPU-lightgrey)
+![Performance](https://img.shields.io/badge/Performance-Optimized-blue)
+![Build](https://img.shields.io/badge/Build-g++%20%7C%20CMake-black)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen)
 ![Stars](https://img.shields.io/github/stars/Trojan3877/neural-network-from-scratch-cpp?style=social)
-![Benchmark](https://img.shields.io/badge/Benchmark-Automated-blue)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-clang--tidy-success)
-![Memory Safety](https://img.shields.io/badge/Memory%20Test-Valgrind-blueviolet)
-
-Overview
+![Forks](https://img.shields.io/github/forks/Trojan3877/neural-network-from-scratch-cpp?style=social)
+![LowLevelAI](https://img.shields.io/badge/AI-Low--Level%20Implementation-critical)
+![NoFramework](https://img.shields.io/badge/Framework-None-black)
+![MathDriven](https://img.shields.io/badge/Math-Linear%20Algebra-blue)
+![MemoryEfficient](https://img.shields.io/badge/Memory-Efficient-green)
+![SystemsAI](https://img.shields.io/badge/Systems-AI%20Engineering-orange)
 
 This project implements a fully connected feedforward neural network entirely from scratch in modern C++ (C++17) without external ML libraries.
 
